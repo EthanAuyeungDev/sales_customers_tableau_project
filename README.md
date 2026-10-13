@@ -3,10 +3,10 @@
 ## Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](image/Sales_Dashboard.png)
+![Sales Dashboard](images/Sales_Dashboard.png)
 
 ### Customer Dashboard
-![Customer Dashboard](image/Customer_Dashboard.png)
+![Customer Dashboard](images/Customer_Dashboard.png)
 ## Overview
 Using Tableau tools to visualize sales and customer data, including data transformation, relationship modeling across Orders, Customers, Products, and Location, parameter-driven year selection, calculated fields for Current Year and Previous Year Sales, LOD expressions for accurate aggregation, interactive filters, Top N analysis, product performance analysis, YoY growth comparison, min/max sales highlights, KPI dashboards, and PDF report export.
 
